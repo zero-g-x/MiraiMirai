@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4148d71-71f1-423c-9761-c88e4fb99428" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/codec/windows-amd64-encoder.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/cache/bef3517d846ce86a96afb33e7d37e5d2.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/06222209eb1ce9df65218265921d9110.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/06f467d75c743f2bda57f37c4a1025cd.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/08f420982eae289e05e76ae8032446f7.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/1b65510f90d8f78c57621be4069fa190.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/1cefcbe58e75ea1f05d55e878d259fd6.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/24ab39c1d8f1df8098872c36e6687a4d.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/3ae62ec2b9257728e11a1c9edc6c1af7.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/49a8d5b9026a393f69d4920f6ca00e6b.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/4f488cf4562b46db4698bd5c3ddbea9b.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/59d5d65d5cd22f0e90e98b16b0ffdaa9.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/5d72dbce407e5d6e7bc2eb32d577a468.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/6cabb8436854929a857f6ffbd2426392.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/7b30f35e644cc611c38f03674528dbcb.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/865fbe68584b58f501514e157ef7f847.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/9a85c95497db2f7bdf7fa43a391dbf8a.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/a82704f548b462dfd0fe43c6c8bdc8c6.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/aa7a984cacf767174492010129c773da.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/bceb9113e1d4db26c5a8f0bd66453159.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/cc8f0387a972d3138f7255b20630aa2e.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/d0cf38631dd8693788f19887262328e7.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/eee048640b9b7eb2bac9041a3c717ac0.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/f83827ddc521f2ad48aa2be8e2c5ca2c.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/images/fbb706202dd5b5bf6f663bcdb5236441.image" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/leveldb/000148.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/leveldb/000150.ldb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/leveldb/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/leveldb/CURRENT.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/leveldb/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/leveldb/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/data/leveldb/MANIFEST-000149" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/device.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/go-cqhttp.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/logs/2020-12-07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/logs/2020-12-08.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/mainbot/bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/mainbot/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonebot/mainbot/main/plugins/weather.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="useGoPathFromSystemEnvironment" value="false" />
+  </component>
+  <component name="ProjectId" id="1lQUnM8sOkjLLA8bVcy0KWs9gk4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.全局.GOPATH.is.expanded" value="true" />
+    <property name="configurable.模块.GOPATH.is.expanded" value="false" />
+    <property name="configurable.项目.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RunManager" selected="Go 构建.go build MiraiMirai">
+    <configuration name="go build MiraiMirai" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="MiraiMirai" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test MiraiMirai" type="GoTestRunConfiguration" factoryName="Go Test" nameIsGenerated="true">
+      <module name="MiraiMirai" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go 构建.go build MiraiMirai" />
+      <item itemvalue="Go 测试.go test MiraiMirai" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="140" y="96" width="1086" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607529051578">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state x="140" y="96" width="1086" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.882@0.0.1368.882" timestamp="1607529051578" />
+    <state x="466" y="197" key="FileChooserDialogImpl" timestamp="1607529286289">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state x="466" y="197" key="FileChooserDialogImpl/0.0.1368.882@0.0.1368.882" timestamp="1607529286289" />
+    <state x="186" y="86" key="SettingsEditor" timestamp="1607529288390">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state x="186" y="86" key="SettingsEditor/0.0.1368.882@0.0.1368.882" timestamp="1607529288390" />
+  </component>
+</project>
